@@ -4,10 +4,31 @@ body {
   padding-bottom: 20px;
 }
 
+ul.nav, .jumbotron h1 {
+    font-family: 'Arvo', courier,  serif;
+}
+
+ul.nav, {
+    font-size: 13px; 
+}
+
 .jumbotron {
     text-align: center;
+    background-image: url(../images/hero-image.jpg);
+    color: white;
+}
+
+.jumbotron h1{
+    margin-top: 0px;
+    margin-bottom: 50px;
+}
+
+.jumbotron p {
+    margin-bottom: 30px;
+    font-weight: 100;
+    padding: 0 50px;
 }
 
 .btn-lg {
-    font-size: 24px;
+    font-size: 36px;
 }
