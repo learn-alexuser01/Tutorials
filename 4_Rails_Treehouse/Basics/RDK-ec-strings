@@ -1,0 +1,3 @@
+puts "Gimme a STRING!"
+string = gets
+puts string.chomp.reverse
