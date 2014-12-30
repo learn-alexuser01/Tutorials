@@ -1,0 +1,3 @@
+# Logfile created on 2014-12-16 17:32:10 -0500 by logger.rb/44203
+I, [2014-12-16T17:32:10.930136 #1831]  INFO -- BankAccount (Bob): Depositing 100
+I, [2014-12-16T17:32:10.930302 #1831]  INFO -- BankAccount (Bob): Withdrawing 50
